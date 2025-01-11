@@ -6,23 +6,26 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Poppins, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .body{
     background: #1f242d;
     padding: 1vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
 .logo {
     color: #fff;
-    padding: 2vw 0 0;
-    margin: 0 0 0 20vw;
+    margin: 2vw 0 0 0;
 }
 .logo h1 {
-    font-size: 5vw;
+    font-size: 10vw;
 }
 .logo h2 {
-    font-size: 2.3vw;
-    margin: -0.6vw 0 0 .3vw;
+    font-size: 4.9vw;
+    margin: -0.8vw 0 0 .7vw;
 }
 .logo h2 span {
     position: relative;
@@ -62,7 +65,7 @@
     justify-content: center; /* Center children vertically */
 }
 .about h2{
-    font-size: 2vw;
+    font-size: 4vw;
     color: #F8E71C;
     margin: 5vw 0 .5vw -46vw;
 }
@@ -70,40 +73,69 @@
     width: 60vw;
     border-radius: 2vw;
     background-color: #1d212b;
-    box-shadow: inset -0.15625vw -0.15625vw 0.390625vw #91e9ff21,inset 0.15625vw 0.15625vw 0.625vw #090d07e4;
-}
-.about .box:hover{
-    background-color: #1f242d;
-    box-shadow: -0.15625vw -0.15625vw 0.390625vw #91e9ff21,
-    0.15625vw 0.15625vw 0.625vw #090d07e4,
-    inset 0.15625vw 0.15625vw 0.390625vw #91e9ff21,
-    inset -0.15625vw -0.15625vw 0.625vw #090d07e4;
+    box-shadow:inset -0.417vw -0.417vw 0.573vw #ffffff3a,
+               inset 0.625vw 0.625vw 0.781vw #000000d4;
 }
 .about .box p{
     color: #ffffff;
-    font-size: 1.3vw;
-    padding: 1.3vw;
+    font-size: 2.3vw;
+    padding: 2vw;
     opacity: 0.95;
 }
+.ruler{
+    width: 70vw;
+    height: .1vw;
+    background-color: white;
+    margin: 3vw 15%;
+}
+
+.counter {
+    display: flex;
+    justify-content: center;
+}
+.counter h2{
+    font-size: 5vw;
+    color: #F8E71C;
+    margin: 0 1vw 0 1vw;
+}
      </style>
-<section class="body">
-    <div class="logo">
+    <section class="body">
+      <div class="logo">
         <h1>FAHAD IKRAM</h1>
-        <h2>I'm a 
-            <span style="--i:1" data-text="Programmer">Programmer</span>
-            <span style="--i:2" data-text="Data Analyst">Data Analyst</span>
-            <span style="--i:3" data-text="AI Developer">AI Developer</span>
-            <span style="--i:4" data-text="ML Engineer">ML Engineer</span>
-            <span style="--i:5" data-text="Aspiring Data Scientist">Aspiring Data Scientist</span>
+        <h2>
+          I'm a
+          <span style="--i: 1" data-text="Programmer">Programmer</span>
+          <span style="--i: 2" data-text="Data Analyst">Data Analyst</span>
+          <span style="--i: 3" data-text="AI Developer">AI Developer</span>
+          <span style="--i: 4" data-text="ML Engineer">ML Engineer</span>
+          <span style="--i: 5" data-text="Aspiring Data Scientist"
+            >Aspiring Data Scientist</span
+          >
         </h2>
-    </div>
-    <div class="about">
+      </div>
+      <div class="about">
         <h2>About Me:</h2>
         <div class="box">
-            <p>Hi, I'm Fahad Ikram a Passionate <b style="color: aquamarine; font-weight: 600;">Data Scientist</b>. I have a keen interest in <b style="color: aquamarine; font-weight: 600;">Artificial Intelligence</b> and <b style="color: aquamarine; font-weight: 600;">Machine Learning</b>. I always eager to learn new technologies and explore new domains. I'm looking for opportunities to work on challenging projects and enhance my skills. Lifelong Learner on the Path to Innovation</p>
+          <p>
+            Hi, I'm Fahad Ikram a Passionate
+            <b style="color: aquamarine; font-weight: 600">Data Scientist</b>. I
+            have a keen interest in
+            <b style="color: aquamarine; font-weight: 600"
+              >Artificial Intelligence</b
+            >
+            and
+            <b style="color: aquamarine; font-weight: 600">Machine Learning</b>.
+            I always eager to learn new technologies and explore new domains.
+            I'm looking for opportunities to work on challenging projects and
+            enhance my skills. Lifelong Learner on the Path to Innovation
+          </p>
         </div>
-    </div>
-</section>
+      </div>
+      <div class="ruler"></div>
+      <div class="counter">
+        <h2>Statistics</h2>
+      </div>
+    </section>
     </div>
   </foreignObject>
 </svg>
