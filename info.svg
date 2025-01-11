@@ -63,6 +63,7 @@
     flex-direction: column; /* Arrange children in a column */
     align-items: center;    /* Center children horizontally */
     justify-content: center; /* Center children vertically */
+    margin: 0 0 2vw 0;
 }
 .about h2{
     font-size: 4vw;
