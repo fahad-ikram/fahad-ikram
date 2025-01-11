@@ -1,2 +1,1 @@
-# intro
-Html integration test
+<img src='info.svg' width='100%' height='100%' />
