@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 650" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 300" width="100%" height="100%">
   <foreignObject x="0" y="0" width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
      <style>
@@ -82,22 +82,6 @@
     padding: 2vw;
     opacity: 0.95;
 }
-.ruler{
-    width: 70vw;
-    height: .1vw;
-    background-color: white;
-    margin: 3vw 15%;
-}
-
-.counter {
-    display: flex;
-    justify-content: center;
-}
-.counter h2{
-    font-size: 5vw;
-    color: #F8E71C;
-    margin: 0 1vw 0 1vw;
-}
      </style>
     <section class="body">
       <div class="logo">
@@ -130,10 +114,6 @@
             enhance my skills. Lifelong Learner on the Path to Innovation
           </p>
         </div>
-      </div>
-      <div class="ruler"></div>
-      <div class="counter">
-        <h2>Statistics</h2>
       </div>
     </section>
     </div>
