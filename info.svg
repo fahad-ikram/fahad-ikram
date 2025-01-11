@@ -15,8 +15,6 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    width:850px;
-    height:450px;
 }
 .logo {
     color: #fff;
