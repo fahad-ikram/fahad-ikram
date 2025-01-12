@@ -31,7 +31,7 @@
     position: relative;
     display: inline-block;
     color: transparent;
-    -webkit-text-stroke: 0.036vw #4A90E2;
+<!--     -webkit-text-stroke: 0.036vw #4A90E2; -->
     animation: display-text 15s linear infinite;
     animation-delay: calc(-3s * var(--i));
 }
@@ -44,7 +44,7 @@
     content: attr(data-text);
     position: absolute;
     width: 0;
-    border-right: 0.15vw solid #4A90E2;
+    border-right: 0.3vw solid #4A90E2;
     color: #4A90E2;
     white-space: nowrap;
     overflow: hidden;
