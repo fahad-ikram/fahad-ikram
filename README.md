@@ -9,6 +9,30 @@
       alt="linkedin logo"
     />
   </a>
+  <a href="https://www.tiktok.com/in/your-profile" target="_blank">
+    <img
+      src="https://static.vecteezy.com/system/resources/previews/016/716/450/non_2x/tiktok-icon-free-png.png"
+      width="40"
+      height="40"
+      alt="linkedin logo"
+    />
+  </a>
+  <a href="https://www.tiktok.com/in/your-profile" target="_blank">
+    <img
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ywnz_Jdd140M9OK1Q4mSlwYjgRyzBtqw0A&s"
+      width="40"
+      height="40"
+      alt="linkedin logo"
+    />
+  </a>
+  <a href="https://www.kaggle.com/in/your-profile" target="_blank">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg"
+    width="52"
+    height="40"
+    alt="kaggle logo"
+  />
+  </a>
   <a href="https://twitter.com/your-profile" target="_blank">
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"
