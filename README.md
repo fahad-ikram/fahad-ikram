@@ -98,22 +98,31 @@
 </div>
 <br>
 <div align="center">
-<br><p align="centre"><b>Visitors Count 👽 </b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{fahad-ikram}/count.svg" /></p> 
-<br>
+  <br />
+  <p><b>Visitors Count</b></p>
+  <a href="#">
+    <img
+      align="center"
+      src="https://profile-counter.glitch.me/{fahad-ikram}/count.svg"
+    />
+  </a>
 </div>
-
+<br>
 <div align="center">
-  <img
-    width="49%"
-    height="195px"
-    src="https://github-readme-stats.vercel.app/api?username=fahad-ikram&title_color=ffffff&text_color=7FFFD4&bg_color=1f242d"
-  />
-  <img
-    width="41%"
-    height="195px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-ikram&hide_progress=false&layout=compact&title_color=ffffff&text_color=7FFFD4&bg_color=1f242d"
-  />
+  <a href="#">
+    <img
+      width="49%"
+      height="195px"
+      src="https://github-readme-stats.vercel.app/api?username=fahad-ikram&title_color=ffffff&text_color=7FFFD4&bg_color=1f242d"
+    />
+  </a>
+  <a href="#">
+    <img
+      width="41%"
+      height="195px"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-ikram&hide_progress=false&layout=compact&title_color=ffffff&text_color=7FFFD4&bg_color=1f242d"
+    />
+  </a>
 </div>
 <br>
 <div align="center">
