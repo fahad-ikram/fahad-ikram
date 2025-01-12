@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="style.css" />
 <img src='info.svg' width='100%' height='100%' />
 
-<div align="center">
+<div  class="box" align="center">
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
