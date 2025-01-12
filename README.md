@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css" />
 <img src='info.svg' width='100%' height='100%' />
 
 <div align="center">
