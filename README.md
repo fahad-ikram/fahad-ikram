@@ -129,7 +129,10 @@
   <h1>Github Metrics</h1>
   <a href="#">
     <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahad-ikram&theme=github_dark"
+      width="100%"
+      height="auto"
+      src="https://my-streak-repository-git-main-fahad-ikrams-projects.vercel.app?user=fahad-ikram&theme=ayu-mirage&short_numbers=true"     
+      alt="GitHub Streak" 
     />
   </a>
 </div>
@@ -141,4 +144,3 @@
     src="https://github-readme-activity-graph.vercel.app/graph?username=fahad-ikram&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true"
   />
 </a>
-
