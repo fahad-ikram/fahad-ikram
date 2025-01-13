@@ -98,6 +98,7 @@
 </div>
 <br>
 <div align="center">
+<br>
   <br />
   <p><b>Visitors Count</b></p>
   <a href="#">
@@ -109,6 +110,42 @@
 </div>
 <br>
 <div align="center">
+  <h1>Technologies</h1>
+  <img src="https://skillicons.dev/icons?i=py" />
+  <img src="https://skillicons.dev/icons?i=r" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://skillicons.dev/icons?i=flask" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=md" />
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=anaconda" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=powershell" />
+  <img src="https://skillicons.dev/icons?i=selenium" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+    height="40"
+    alt="pandas logo"
+  />
+  <img
+    src="https://static-00.iconduck.com/assets.00/file-type-numpy-icon-1901x2048-oulkqypt.png"
+    height="40"
+    alt="pandas logo"
+  />
+</div>
+<br>
+
+<div align="center">
+<h1>Github Metrics</h1>
+  <br>
   <a href="#">
     <img
       width="49%"
@@ -126,7 +163,6 @@
 </div>
 <br>
 <div align="center">
-  <h1>Github Metrics</h1>
   <a href="#">
     <img
       width="100%"
@@ -137,7 +173,7 @@
   </a>
 </div>
 <br>
-<h1 align="center">Contributions Graph</h1>
+<!-- <h1 align="center">Contributions Graph</h1> -->
 
 <a href="#">
   <img
