@@ -21,10 +21,10 @@
     margin: 2vw 0 0 0;
 }
 .logo h1 {
-    font-size: 260%;
+    font-size: 800%;
 }
 .logo h2 {
-    font-size: 128%;
+    font-size: 390%;
     margin: -0.8vw 0 0 .7vw;
 }
 .logo h2 span {
